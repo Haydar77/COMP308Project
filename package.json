@@ -1,0 +1,17 @@
+{
+  "name": "final-project",
+  "version": "1.0.0",
+  "description": "A nurse and patient monitoring  application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Nurse",
+    "doctor",
+    "patient",
+    "med"
+  ],
+  "author": "Team Anon",
+  "license": "ISC"
+}
